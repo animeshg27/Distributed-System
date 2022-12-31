@@ -1,0 +1,17 @@
+1. Topic
+2. Create DB
+3. Insert DB
+4. Queries
+5. Update DB
+6. Drop DB
+
+start commands.sql
+    start projectDBdrop.sql
+    start projectDBcreate.sql
+    start projectDBinsert.sql
+
+start projectDBupdate.sql
+    start projectDBqueries.sql
+    start projectDBupdate1.sql
+    start projectDBupdate2.sql
+    start projectDBupdate3.sql
